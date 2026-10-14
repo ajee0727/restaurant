@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tablehouse Restaurant Management
 
 A college mini-project with a React/Vite client, a Core PHP JSON API, and a MySQL database. The applications are separate: React JSX runs in the browser, while PHP runs only through Apache. No database credential is sent to the browser.
@@ -136,3 +137,6 @@ The complete flow requires a running XAMPP PHP/MySQL environment:
 ## Current validation notes
 
 The React production build was verified with Vite. PHP files were parsed with a PHP grammar parser because PHP/XAMPP is not installed in the build environment. The SQL import, Apache rewrite behavior, real PHP endpoint tests, and full customer-to-payment workflow still need to be run on a computer with XAMPP/MySQL; the manual checklist above is provided for that environment.
+=======
+# restaurant
+>>>>>>> 26413ada489acbfb4cd6e890f40b5ba1f40e3f88
